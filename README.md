@@ -1,8 +1,7 @@
 # TensorBoard Dev Summit Tutorial
 
-This contains a runnable code companion to the TensorBoard tutorial at the 
-2017 TensorFlow Dev Summit.
+This contains a runnable code companion to the TensorBoard tutorial for the 8th semester seminar topic of Cognitive Computing 
 
-You can watch the tutorial [on YouTube](https://www.youtube.com/watch?v=eBbEDRsCmv4&t=1105s).
+You can watch the tutorial [on YouTube](https://youtu.be/7tESo4yJTpw).
 
 Happy TensorBoarding!
